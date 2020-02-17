@@ -16,5 +16,5 @@ The following program receives a log file as input and can return the following 
 To Use:
 
 1. Git clone the repo (git clone https://github.com/NicolasDeMil/log-parser.git from command line)
-2. Once cloned, change directory into the newly create log-parser folder on your computer (cd log-parser from command line)
+2. Once cloned, change directory into the newly created log-parser folder on your computer (cd log-parser from command line)
 3. Run the program from the command line: ruby lib/app.rb
